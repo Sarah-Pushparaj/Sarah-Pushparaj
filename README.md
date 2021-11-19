@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Sarah Pushparaj! <br>
+- Hometown: Chicago, IL
+- Studying computer science at Purdue University in West Lafayette, IN <br>
+
+#### Where you can reach me:
+- [Linkedln](https://www.linkedin.com/in/sarah-pushparaj/)
+- Email: sarahps121@gmail.com
 
 <!--
 **Sarah-Pushparaj/Sarah-Pushparaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
