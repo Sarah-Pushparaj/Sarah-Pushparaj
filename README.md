@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Sarah Pushparaj! <br>
 - Hometown: Chicago, IL
-- Studying computer science at Purdue University in West Lafayette, IN <br>
+- Education: BS computer science - software engineering @ Purdue University <br>
 
 #### Where you can reach me:
 - [Linkedln](https://www.linkedin.com/in/sarah-pushparaj/)
